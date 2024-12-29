@@ -1,0 +1,14 @@
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\bin\Debug\net8.0\CanPlaceFlowers.exe
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\bin\Debug\net8.0\CanPlaceFlowers.deps.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\bin\Debug\net8.0\CanPlaceFlowers.runtimeconfig.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\bin\Debug\net8.0\CanPlaceFlowers.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\bin\Debug\net8.0\CanPlaceFlowers.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.AssemblyInfoInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.AssemblyInfo.cs
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.csproj.CoreCompileInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\obj\Debug\net8.0\refint\CanPlaceFlowers.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\obj\Debug\net8.0\CanPlaceFlowers.genruntimeconfig.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\CanPlaceFlowers\obj\Debug\net8.0\ref\CanPlaceFlowers.dll

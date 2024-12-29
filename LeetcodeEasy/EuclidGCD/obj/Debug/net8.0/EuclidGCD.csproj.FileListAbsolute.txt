@@ -1,0 +1,14 @@
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\bin\Debug\net8.0\EuclidGCD.exe
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\bin\Debug\net8.0\EuclidGCD.deps.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\bin\Debug\net8.0\EuclidGCD.runtimeconfig.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\bin\Debug\net8.0\EuclidGCD.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\bin\Debug\net8.0\EuclidGCD.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\obj\Debug\net8.0\EuclidGCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\obj\Debug\net8.0\EuclidGCD.AssemblyInfoInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\obj\Debug\net8.0\EuclidGCD.AssemblyInfo.cs
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\obj\Debug\net8.0\EuclidGCD.csproj.CoreCompileInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\obj\Debug\net8.0\EuclidGCD.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\obj\Debug\net8.0\refint\EuclidGCD.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\obj\Debug\net8.0\EuclidGCD.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\obj\Debug\net8.0\EuclidGCD.genruntimeconfig.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\EuclidGCD\obj\Debug\net8.0\ref\EuclidGCD.dll

@@ -1,0 +1,14 @@
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\bin\Debug\net8.0\BinarySearchClassic.exe
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\bin\Debug\net8.0\BinarySearchClassic.deps.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\bin\Debug\net8.0\BinarySearchClassic.runtimeconfig.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\bin\Debug\net8.0\BinarySearchClassic.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\bin\Debug\net8.0\BinarySearchClassic.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\obj\Debug\net8.0\BinarySearchClassic.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\obj\Debug\net8.0\BinarySearchClassic.AssemblyInfoInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\obj\Debug\net8.0\BinarySearchClassic.AssemblyInfo.cs
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\obj\Debug\net8.0\BinarySearchClassic.csproj.CoreCompileInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\obj\Debug\net8.0\BinarySearchClassic.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\obj\Debug\net8.0\refint\BinarySearchClassic.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\obj\Debug\net8.0\BinarySearchClassic.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\obj\Debug\net8.0\BinarySearchClassic.genruntimeconfig.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\BinarySearchClassic\obj\Debug\net8.0\ref\BinarySearchClassic.dll

@@ -1,0 +1,14 @@
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\bin\Debug\net8.0\RemoveElement.exe
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\bin\Debug\net8.0\RemoveElement.deps.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\bin\Debug\net8.0\RemoveElement.runtimeconfig.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\bin\Debug\net8.0\RemoveElement.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\bin\Debug\net8.0\RemoveElement.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\obj\Debug\net8.0\RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\obj\Debug\net8.0\RemoveElement.AssemblyInfoInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\obj\Debug\net8.0\RemoveElement.AssemblyInfo.cs
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\obj\Debug\net8.0\RemoveElement.csproj.CoreCompileInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\obj\Debug\net8.0\RemoveElement.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\obj\Debug\net8.0\refint\RemoveElement.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\obj\Debug\net8.0\RemoveElement.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\obj\Debug\net8.0\RemoveElement.genruntimeconfig.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\RemoveElement\obj\Debug\net8.0\ref\RemoveElement.dll

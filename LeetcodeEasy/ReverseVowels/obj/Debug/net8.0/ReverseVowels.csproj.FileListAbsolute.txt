@@ -1,0 +1,14 @@
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\bin\Debug\net8.0\ReverseVowels.exe
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\bin\Debug\net8.0\ReverseVowels.deps.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\bin\Debug\net8.0\ReverseVowels.runtimeconfig.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\bin\Debug\net8.0\ReverseVowels.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\bin\Debug\net8.0\ReverseVowels.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\obj\Debug\net8.0\ReverseVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\obj\Debug\net8.0\ReverseVowels.AssemblyInfoInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\obj\Debug\net8.0\ReverseVowels.AssemblyInfo.cs
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\obj\Debug\net8.0\ReverseVowels.csproj.CoreCompileInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\obj\Debug\net8.0\ReverseVowels.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\obj\Debug\net8.0\refint\ReverseVowels.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\obj\Debug\net8.0\ReverseVowels.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\obj\Debug\net8.0\ReverseVowels.genruntimeconfig.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseVowels\obj\Debug\net8.0\ref\ReverseVowels.dll

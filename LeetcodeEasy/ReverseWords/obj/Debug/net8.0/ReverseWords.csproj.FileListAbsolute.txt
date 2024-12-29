@@ -1,0 +1,14 @@
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\bin\Debug\net8.0\ReverseWords.exe
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\bin\Debug\net8.0\ReverseWords.deps.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\bin\Debug\net8.0\ReverseWords.runtimeconfig.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\bin\Debug\net8.0\ReverseWords.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\bin\Debug\net8.0\ReverseWords.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\obj\Debug\net8.0\ReverseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\obj\Debug\net8.0\ReverseWords.AssemblyInfoInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\obj\Debug\net8.0\ReverseWords.AssemblyInfo.cs
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\obj\Debug\net8.0\ReverseWords.csproj.CoreCompileInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\obj\Debug\net8.0\ReverseWords.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\obj\Debug\net8.0\refint\ReverseWords.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\obj\Debug\net8.0\ReverseWords.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\obj\Debug\net8.0\ReverseWords.genruntimeconfig.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\ReverseWords\obj\Debug\net8.0\ref\ReverseWords.dll

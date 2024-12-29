@@ -1,0 +1,14 @@
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\bin\Debug\net8.0\KidsWithCandies.exe
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\bin\Debug\net8.0\KidsWithCandies.deps.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\bin\Debug\net8.0\KidsWithCandies.runtimeconfig.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\bin\Debug\net8.0\KidsWithCandies.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\bin\Debug\net8.0\KidsWithCandies.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\obj\Debug\net8.0\KidsWithCandies.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\obj\Debug\net8.0\KidsWithCandies.AssemblyInfoInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\obj\Debug\net8.0\KidsWithCandies.AssemblyInfo.cs
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\obj\Debug\net8.0\KidsWithCandies.csproj.CoreCompileInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\obj\Debug\net8.0\KidsWithCandies.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\obj\Debug\net8.0\refint\KidsWithCandies.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\obj\Debug\net8.0\KidsWithCandies.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\obj\Debug\net8.0\KidsWithCandies.genruntimeconfig.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\KidsWithCandies\obj\Debug\net8.0\ref\KidsWithCandies.dll
