@@ -1,0 +1,15 @@
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\bin\Debug\net8.0\RomanToInt1.exe
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\bin\Debug\net8.0\RomanToInt1.deps.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\bin\Debug\net8.0\RomanToInt1.runtimeconfig.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\bin\Debug\net8.0\RomanToInt1.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\bin\Debug\net8.0\RomanToInt1.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\obj\Debug\net8.0\RomanToInt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\obj\Debug\net8.0\RomanToInt1.AssemblyInfoInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\obj\Debug\net8.0\RomanToInt1.AssemblyInfo.cs
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\obj\Debug\net8.0\RomanToInt1.csproj.CoreCompileInputs.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\obj\Debug\net8.0\RomanToInt1.sourcelink.json
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\obj\Debug\net8.0\RomanToInt1.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\obj\Debug\net8.0\refint\RomanToInt1.dll
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\obj\Debug\net8.0\RomanToInt1.pdb
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\obj\Debug\net8.0\RomanToInt1.genruntimeconfig.cache
+C:\projects\LeetcodeEasy\LeetcodeEasy\RomanToInt1\obj\Debug\net8.0\ref\RomanToInt1.dll
