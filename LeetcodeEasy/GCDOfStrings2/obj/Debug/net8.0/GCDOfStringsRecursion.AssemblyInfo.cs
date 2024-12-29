@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GCDOfStringsRecursion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+517564c95fa09381e907b3030fe0e62c6416bf0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GCDOfStringsRecursion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GCDOfStringsRecursion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

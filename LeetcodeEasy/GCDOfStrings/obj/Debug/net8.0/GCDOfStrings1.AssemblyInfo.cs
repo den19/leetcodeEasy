@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GCDOfStrings1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+517564c95fa09381e907b3030fe0e62c6416bf0e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GCDOfStrings1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GCDOfStrings1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
