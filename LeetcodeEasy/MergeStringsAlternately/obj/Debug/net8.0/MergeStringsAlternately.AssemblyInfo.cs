@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MergeStringsAlternately")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bdd3b9b1a0c471a8596b8a37bab2e943063bde33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56b0ed67a277c8ee47b49c98f1bc241b9e6f4436")]
 [assembly: System.Reflection.AssemblyProductAttribute("MergeStringsAlternately")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MergeStringsAlternately")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
