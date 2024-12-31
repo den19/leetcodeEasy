@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CanPlaceFlowers")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e674140eff8eba0c71111884ee49f7f0a9c7454b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f498cf2d7d38281bebc603a3dbd7cc5fd73dc9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CanPlaceFlowers")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CanPlaceFlowers")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
