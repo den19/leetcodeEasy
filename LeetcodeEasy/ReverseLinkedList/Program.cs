@@ -1,0 +1,53 @@
+﻿namespace ReverseLinkedList
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+        }
+    }
+
+    public class ListNode
+    {
+        public int val { get; set; }
+        public ListNode next;
+        public ListNode(int val = 0, ListNode next = null)
+        {
+            this.val = val;
+            this.next = next;
+        }
+
+        public ListNode ReverseList(ListNode head)
+        {
+            ListNode prev = null;
+            ListNode curr = head;
+
+            while (curr != null)
+            {
+                ListNode next = curr.next;
+                curr.next = prev;
+                prev = curr;
+                curr = next;
+            }
+
+            return prev;
+        }
+
+        public ListNode ReverseListRecursion(ListNode head)
+        {
+            if (head == null)
+                return null;
+
+            if (head.next == null)
+                return head;
+
+            var next = head.next;
+            var rest = ReverseListRecursion(head.next);
+            next.next = head;
+            head.next = null;
+
+            return rest;
+        }
+    }
+}
