@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RemoveElement")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd17f1dc3f2a2e9bfed00a9a99a9ec66c6f9c3a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f2b0a1092dd5f1bb1c9b0545a8fc9f6469787288")]
 [assembly: System.Reflection.AssemblyProductAttribute("RemoveElement")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RemoveElement")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

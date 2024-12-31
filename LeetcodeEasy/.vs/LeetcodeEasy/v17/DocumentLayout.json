@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00679D57-7E97-4CE9-AEDA-2489E5FB35DC}|FindPivotIndex\\FindPivotIndex.csproj|c:\\projects\\leetcodeeasy\\leetcodeeasy\\findpivotindex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00679D57-7E97-4CE9-AEDA-2489E5FB35DC}|FindPivotIndex\\FindPivotIndex.csproj|solutionrelative:findpivotindex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B26065DD-2A6B-47A2-B0D4-BB99E1B6D213}|HighestAltitude\\HighestAltitude.csproj|c:\\projects\\leetcodeeasy\\leetcodeeasy\\highestaltitude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B26065DD-2A6B-47A2-B0D4-BB99E1B6D213}|HighestAltitude\\HighestAltitude.csproj|solutionrelative:highestaltitude\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76DCF0E-E0F3-4E67-90F8-0084C97007E0}|MaximumAverageSubarray1\\MaximumAverageSubarray1.csproj|c:\\projects\\leetcodeeasy\\leetcodeeasy\\maximumaveragesubarray1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76DCF0E-E0F3-4E67-90F8-0084C97007E0}|MaximumAverageSubarray1\\MaximumAverageSubarray1.csproj|solutionrelative:maximumaveragesubarray1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{372673DD-3C89-44F2-8139-6AF8B166C53D}|IsSubsequence\\IsSubsequence.csproj|c:\\projects\\leetcodeeasy\\leetcodeeasy\\issubsequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{372673DD-3C89-44F2-8139-6AF8B166C53D}|IsSubsequence\\IsSubsequence.csproj|solutionrelative:issubsequence\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -106,7 +118,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 199,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -125,25 +137,58 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\IsSubsequence\\Program.cs",
-              "RelativeDocumentMoniker": "IsSubsequence\\Program.cs",
-              "ToolTip": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\IsSubsequence\\Program.cs",
-              "RelativeToolTip": "IsSubsequence\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAAfAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\FindPivotIndex\\Program.cs",
+              "RelativeDocumentMoniker": "FindPivotIndex\\Program.cs",
+              "ToolTip": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\FindPivotIndex\\Program.cs",
+              "RelativeToolTip": "FindPivotIndex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T20:58:54.129Z",
+              "WhenOpened": "2024-12-31T05:22:48.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\HighestAltitude\\Program.cs",
+              "RelativeDocumentMoniker": "HighestAltitude\\Program.cs",
+              "ToolTip": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\HighestAltitude\\Program.cs",
+              "RelativeToolTip": "HighestAltitude\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T09:38:23.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\MaximumAverageSubarray1\\Program.cs",
+              "RelativeDocumentMoniker": "MaximumAverageSubarray1\\Program.cs",
+              "ToolTip": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\MaximumAverageSubarray1\\Program.cs",
+              "RelativeToolTip": "MaximumAverageSubarray1\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T06:01:24.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\IsSubsequence\\Program.cs",
+              "RelativeDocumentMoniker": "IsSubsequence\\Program.cs",
+              "ToolTip": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\IsSubsequence\\Program.cs",
+              "RelativeToolTip": "IsSubsequence\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T20:58:54.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\RomanToInt2\\Program.cs",
               "RelativeDocumentMoniker": "RomanToInt2\\Program.cs",
@@ -151,12 +196,11 @@
               "RelativeToolTip": "RomanToInt2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T20:55:15.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T20:55:15.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\RomanToInt1\\Program.cs",
               "RelativeDocumentMoniker": "RomanToInt1\\Program.cs",
@@ -164,12 +208,11 @@
               "RelativeToolTip": "RomanToInt1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-29T20:41:25.735Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-29T20:41:25.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "TwoSum.csproj",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\TwoSum\\TwoSum.csproj",
               "RelativeDocumentMoniker": "TwoSum\\TwoSum.csproj",
@@ -181,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\Memoisation\\Program.cs",
               "RelativeDocumentMoniker": "Memoisation\\Program.cs",
@@ -193,7 +236,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\PalindromeNumber\\Program.cs",
               "RelativeDocumentMoniker": "PalindromeNumber\\Program.cs",
@@ -205,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\TwoSum\\Program.cs",
               "RelativeDocumentMoniker": "TwoSum\\Program.cs",
@@ -213,12 +256,11 @@
               "RelativeToolTip": "TwoSum\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T11:41:58.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T11:41:58.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\BinarySearcLastIndex\\Program.cs",
               "RelativeDocumentMoniker": "BinarySearcLastIndex\\Program.cs",
@@ -230,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\BinarySearchFirstIndex\\Program.cs",
               "RelativeDocumentMoniker": "BinarySearchFirstIndex\\Program.cs",
@@ -242,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "BinarySearchClassic.csproj",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\BinarySearchClassic\\BinarySearchClassic.csproj",
               "RelativeDocumentMoniker": "BinarySearchClassic\\BinarySearchClassic.csproj",
@@ -254,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\BinarySearchFirstElement\\Program.cs",
               "RelativeDocumentMoniker": "BinarySearchFirstElement\\Program.cs",
@@ -262,12 +304,11 @@
               "RelativeToolTip": "BinarySearchFirstElement\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T07:05:47.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T07:05:47.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\BinarySearchClassic\\Program.cs",
               "RelativeDocumentMoniker": "BinarySearchClassic\\Program.cs",
@@ -275,12 +316,11 @@
               "RelativeToolTip": "BinarySearchClassic\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-28T06:35:27.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T06:35:27.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\EuclidGCD\\Program.cs",
               "RelativeDocumentMoniker": "EuclidGCD\\Program.cs",
@@ -292,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "MoveZeroes.csproj",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\MoveZeroes\\MoveZeroes.csproj",
               "RelativeDocumentMoniker": "MoveZeroes\\MoveZeroes.csproj",
@@ -304,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\RemoveElement\\Program.cs",
               "RelativeDocumentMoniker": "RemoveElement\\Program.cs",
@@ -312,12 +352,11 @@
               "RelativeToolTip": "RemoveElement\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T16:44:19.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T16:44:19.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\MoveZeroes\\Program.cs",
               "RelativeDocumentMoniker": "MoveZeroes\\Program.cs",
@@ -325,12 +364,11 @@
               "RelativeToolTip": "MoveZeroes\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T09:46:23.305Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T09:46:23.305Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\ReverseWords\\Program.cs",
               "RelativeDocumentMoniker": "ReverseWords\\Program.cs",
@@ -342,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\ReverseVowels\\Program.cs",
               "RelativeDocumentMoniker": "ReverseVowels\\Program.cs",
@@ -350,12 +388,11 @@
               "RelativeToolTip": "ReverseVowels\\Program.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T06:56:17.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T06:56:17.136Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\CanPlaceFlowers\\Program.cs",
               "RelativeDocumentMoniker": "CanPlaceFlowers\\Program.cs",
@@ -367,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\KidsWithCandies\\Program.cs",
               "RelativeDocumentMoniker": "KidsWithCandies\\Program.cs",
@@ -379,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\GCDOfStrings2\\Program.cs",
               "RelativeDocumentMoniker": "GCDOfStrings2\\Program.cs",
@@ -391,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\GCDOfStrings\\Program.cs",
               "RelativeDocumentMoniker": "GCDOfStrings\\Program.cs",
@@ -399,12 +436,11 @@
               "RelativeToolTip": "GCDOfStrings\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-26T12:12:32.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-26T12:12:32.98Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\MergeStringsAlternately\\Program.cs",
               "RelativeDocumentMoniker": "MergeStringsAlternately\\Program.cs",
@@ -416,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\projects\\LeetcodeEasy\\LeetcodeEasy\\BinarySearch\\Program.cs",
               "RelativeDocumentMoniker": "BinarySearch\\Program.cs",
@@ -424,8 +460,11 @@
               "RelativeToolTip": "BinarySearch\\Program.cs",
               "ViewState": "AgIAADgAAAAAAAAAAADgv0AAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T17:39:44.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T17:39:44.926Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         },
