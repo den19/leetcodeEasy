@@ -4,7 +4,18 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var node3 = new ListNode(3, null);
+            var node2 = new ListNode(2, node3);
+            var node1 = new ListNode(1, node2);
+            Console.WriteLine($"node1.val={node1.val}, node1.next={node1.next?.val}");
+            Console.WriteLine($"node2.val={node2.val}, node1.next={node2.next?.val}");
+            Console.WriteLine($"node3.val={node3.val}, node1.next={node3.next?.val}");
+            ListNode.ReverseList(node1);
+            Console.WriteLine("Reversed List");
+            Console.WriteLine($"node1.val={node1.val}, node1.next={node1.next?.val}");
+            Console.WriteLine($"node2.val={node2.val}, node1.next={node2.next?.val}");
+            Console.WriteLine($"node3.val={node3.val}, node1.next={node3.next?.val}");
+            Console.ReadLine();
         }
     }
 
@@ -18,7 +29,7 @@
             this.next = next;
         }
 
-        public ListNode ReverseList(ListNode head)
+        public static ListNode ReverseList(ListNode head)
         {
             ListNode prev = null;
             ListNode curr = head;
